@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;}
+body{background-image:url(umar3.jpg);
+    
+background-size:cover ;
+width: 80%;
+height: 30vh;
+}
+div.aboutus{
+       
+        font-size:  45px;
+        text-decoration: underline skyblue;
+    
+        color: white;
+   
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+div.heading{font-size: 37px;
+    color: brown;
+    font-style: inherit;
+    text-decoration:underline rgb(230, 227, 226);
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-inline-start: 170px;
+} 
+
+div.para{
+    font-size: 35px;
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+    margin: 40px;
+    text-align: center;
+   padding: 80px;
+border-radius: 15px;
+border: 1px salmon;
+box-shadow: 2px 2px 15px skyblue;
+background-color: rgba(59, 182, 182, 0.589);
+
+}
